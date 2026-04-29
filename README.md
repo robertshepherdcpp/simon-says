@@ -43,6 +43,11 @@ the exploded view:
 zine:
 <img width="618" height="873" alt="image" src="https://github.com/user-attachments/assets/6d642466-0400-459b-95b7-0a0a0d30e946" />
 
+bom:
+<img width="713" height="403" alt="image" src="https://github.com/user-attachments/assets/5deee366-15cc-46d7-a1c9-632d4a7e85f5" />
+total project cost: $26.73 (however will already have components spare from other projects like cherry mx switches, key caps)
+
+
 
 
 
