@@ -41,7 +41,8 @@ the exploded view:
 <img width="607" height="694" alt="image" src="https://github.com/user-attachments/assets/7d20d027-4b69-4b98-862a-eb666743f60f" />
 
 zine:
-<img width="546" height="770" alt="image" src="https://github.com/user-attachments/assets/c2b73989-a7de-4b89-b6d2-0e2e9bb65873" />
+<img width="618" height="873" alt="image" src="https://github.com/user-attachments/assets/6d642466-0400-459b-95b7-0a0a0d30e946" />
+
 
 
 
