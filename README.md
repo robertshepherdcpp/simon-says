@@ -10,6 +10,7 @@ my fourth project for fallout
 - print out the pcb and the case
 - put them together (using the screws as described in the BOM)
 - then try and see how many you can remember!
+- for more information on how it works, see the `how it works` part!
 
 **inspiration for the project**
 - having played the sequence memory game on [human benchark](humanbenchmark.com), i wanted to have a physical version of this that i could play with!
