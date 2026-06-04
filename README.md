@@ -42,7 +42,8 @@ the exploded view:
 <img width="607" height="694" alt="image" src="https://github.com/user-attachments/assets/7d20d027-4b69-4b98-862a-eb666743f60f" />
 
 zine:
-<img width="618" height="873" alt="image" src="https://github.com/user-attachments/assets/6d642466-0400-459b-95b7-0a0a0d30e946" />
+<img width="517" height="731" alt="image" src="https://github.com/user-attachments/assets/02869b3e-818b-40d8-90e7-6357f3d1eb48" />
+
 
 bom:
 <img width="793" height="440" alt="image" src="https://github.com/user-attachments/assets/804e4ecd-34b8-4260-aeae-57d8eafcf0f6" />
