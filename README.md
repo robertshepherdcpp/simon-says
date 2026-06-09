@@ -50,8 +50,8 @@ zine:
 <img width="513" height="732" alt="image" src="https://github.com/user-attachments/assets/d692fc43-e622-4ae0-a71b-fc62b9bbc2e3" />
 
 
-
 bom:
+
 <img width="793" height="440" alt="image" src="https://github.com/user-attachments/assets/804e4ecd-34b8-4260-aeae-57d8eafcf0f6" />
 total project cost: $28.53 (however will already have components spare from other projects like cherry mx switches, key caps)
 
