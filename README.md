@@ -39,11 +39,9 @@ the footprint:
 
 the 3d model:
 
-<img width="629" height="702" alt="image" src="https://github.com/user-attachments/assets/9ebf9c21-01b6-4ee2-b978-3aae74b8c959" />
+<img width="438" height="600" alt="image" src="https://github.com/user-attachments/assets/dbc02224-81fa-4518-9cb2-6f3bc92039c1" />
 
-the exploded view:
 
-<img width="607" height="694" alt="image" src="https://github.com/user-attachments/assets/7d20d027-4b69-4b98-862a-eb666743f60f" />
 
 zine:
 
