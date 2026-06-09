@@ -7,8 +7,8 @@ my fourth project for fallout
 - see how far you can go! how many can you remember in a row
 
 **how to use it**
-- print out the pcb and the case
-- put them together (using the screws as described in the BOM)
+- print out the pcb and the case, and purchase the components meantioned in the bom
+- put them together (using the screws going through the pcb)
 - then try and see how many you can remember!
 - for more information on how it works, see the `how it works` part!
 
