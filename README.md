@@ -30,19 +30,25 @@ my fourth project for fallout
 
 **screenshots**
 the schematic:
+
 <img width="1162" height="925" alt="image" src="https://github.com/user-attachments/assets/e7aa2284-9b87-4625-9c91-26126afe8715" />
 
 the footprint:
+
 <img width="350" height="490" alt="image" src="https://github.com/user-attachments/assets/f364a5a7-b056-40db-be11-870c7550b49e" />
 
 the 3d model:
+
 <img width="629" height="702" alt="image" src="https://github.com/user-attachments/assets/9ebf9c21-01b6-4ee2-b978-3aae74b8c959" />
 
 the exploded view:
+
 <img width="607" height="694" alt="image" src="https://github.com/user-attachments/assets/7d20d027-4b69-4b98-862a-eb666743f60f" />
 
 zine:
-<img width="517" height="731" alt="image" src="https://github.com/user-attachments/assets/02869b3e-818b-40d8-90e7-6357f3d1eb48" />
+
+<img width="513" height="732" alt="image" src="https://github.com/user-attachments/assets/d692fc43-e622-4ae0-a71b-fc62b9bbc2e3" />
+
 
 
 bom:
