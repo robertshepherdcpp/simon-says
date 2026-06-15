@@ -6,11 +6,13 @@ my fourth project for fallout
 - this project tests your sequence memory, in having a sequence that increases in length after everytime you get it right
 - see how far you can go! how many can you remember in a row
 
-**how to use it**
+**assembly instructions**
 - print out the pcb and the case, and purchase the components meantioned in the bom
-- put them together (using the screws going through the pcb)
-- then try and see how many you can remember!
-- for more information on how it works, see the `how it works` part!
+- put the pcb in the case
+- put on the lid. then attach the screws mentioned in the BOM to fix the pcb in place.
+- flash the firmware to the xiao-esp32 through the arduino ide (via usb)
+- keep it plugged into your computer, as that will be the power source!
+- try and see how many you can remember!
 
 **inspiration for the project**
 - having played the sequence memory game on [human benchark](humanbenchmark.com), i wanted to have a physical version of this that i could play with!
