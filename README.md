@@ -47,7 +47,8 @@ the 3d model:
 
 zine:
 
-<img width="667" height="971" alt="image" src="https://github.com/user-attachments/assets/447e3045-c258-42d8-97b1-7fe81818d952" />
+<img width="675" height="965" alt="image" src="https://github.com/user-attachments/assets/97feec5b-321c-41c0-903f-621c8a15289f" />
+
 
 
 
