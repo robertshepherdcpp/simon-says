@@ -40,6 +40,9 @@ the footprint:
 
 <img width="402" height="486" alt="image" src="https://github.com/user-attachments/assets/165b947b-28cb-428b-8ef0-23dc223c968e" />
 
+pcb 3d:
+
+<img width="537" height="687" alt="image" src="https://github.com/user-attachments/assets/cfd0daa3-5020-479d-8468-4755c3a956ab" />
 
 the 3d model:
 
@@ -50,10 +53,6 @@ the 3d model:
 zine:
 
 <img width="675" height="965" alt="image" src="https://github.com/user-attachments/assets/97feec5b-321c-41c0-903f-621c8a15289f" />
-
-pcb 3d:
-
-<img width="537" height="687" alt="image" src="https://github.com/user-attachments/assets/cfd0daa3-5020-479d-8468-4755c3a956ab" />
 
 
 
