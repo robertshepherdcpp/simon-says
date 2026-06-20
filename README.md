@@ -33,7 +33,8 @@ my fourth project for fallout
 **screenshots**
 the schematic:
 
-<img width="1162" height="925" alt="image" src="https://github.com/user-attachments/assets/e7aa2284-9b87-4625-9c91-26126afe8715" />
+<img width="898" height="855" alt="image" src="https://github.com/user-attachments/assets/43baacfd-7cc2-4a74-997c-7bdac36b3f99" />
+
 
 the footprint:
 
