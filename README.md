@@ -38,7 +38,8 @@ the schematic:
 
 the footprint:
 
-<img width="350" height="490" alt="image" src="https://github.com/user-attachments/assets/f364a5a7-b056-40db-be11-870c7550b49e" />
+<img width="402" height="486" alt="image" src="https://github.com/user-attachments/assets/165b947b-28cb-428b-8ef0-23dc223c968e" />
+
 
 the 3d model:
 
