@@ -51,6 +51,9 @@ zine:
 
 <img width="675" height="965" alt="image" src="https://github.com/user-attachments/assets/97feec5b-321c-41c0-903f-621c8a15289f" />
 
+pcb 3d:
+
+<img width="537" height="687" alt="image" src="https://github.com/user-attachments/assets/cfd0daa3-5020-479d-8468-4755c3a956ab" />
 
 
 
